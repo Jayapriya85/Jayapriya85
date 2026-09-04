@@ -23,7 +23,7 @@
 
 ## 📫 Reach Me
 - 📧 **jayapriya0805@gmail.com**
-- 💼 **LinkedIn:** https://linkedin.com/in/jayapriya-r-b477792a3
+- 💼 **LinkedIn:** https://www.linkedin.com/in/jayapriya85
 
 ---
 

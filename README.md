@@ -5,7 +5,7 @@
 
 ---
 
-**👩‍💻 About Me
+ 👩‍💻 About Me
 
 - 🎓 **Computer Science Engineering Student**
 - 🔭 Working on **Placify** – a placement monitoring web application
@@ -15,18 +15,18 @@
 - ⚡ Fun fact: *I’m funny 😄*
 
 ---
-**📄 Experience
+ 📄 Experience
 - **Web Developer Intern – Lasak Edu**
 
 ---
 
-**📫 Reach Me
+ 📫 Reach Me
 - 📧 **jayapriya0805@gmail.com**
 - 💼 **LinkedIn:** https://www.linkedin.com/in/jayapriya85
 
 ---
 
-**🤝 Connect With Me
+ 🤝 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/jayapriya85" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -36,7 +36,7 @@
 
 ---
 
-**🛠️ Languages & Tools
+ 🛠️ Languages & Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
@@ -54,7 +54,7 @@ Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use e
 
 ---
 
-**📊 GitHub Stats
+ 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jayapriya85&show_icons=true&theme=default" />
 </p>
